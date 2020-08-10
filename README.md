@@ -8,12 +8,12 @@ Caltable no recopila informacion
 sobre el usuario ni sobre su equipo
 
 ## Requisitos
-** Minimos: **
+**Minimos:**
 -Windows 7 de 32 bits
 -Procesador de 2.1Ghz (2 núcleos)
 -2GB RAM
 
-** Recomendados: **
+**Recomendados:**
 -Windows 10 de 64 bits
 -Procesador de 2.1Ghz (4 núcleos)
 -4GB RAM
