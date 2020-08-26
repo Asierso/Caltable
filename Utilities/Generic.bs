@@ -1,0 +1,14 @@
+0->W;
+0->E;
+Locate 1,4,"LIMITE";
+?->A;
+While W=0;
+Locate 1,1,"Caltable";
+Locate 10,1,"P:";
+Locate 12,1,E;
+Locate 1,2,List X[E];
+GetKey->G;
+If G=86 And E<A:Then E+1->E:IfEnd;
+If G=84:And E>1 Then E-1->E:IfEnd; 
+Locate 1,4,"Generic";
+WhileEnd;
