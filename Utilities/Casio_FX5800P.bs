@@ -1,8 +1,0 @@
-0->W;
-0->P;
-While W=0;
-Locate 1,1,"Caltable";
-GetKey->G;
-If G=86:Then P+1->P,IfEnd;
-If G=84:Then P-1->P,IfEnd; 
-WhileEnd;
