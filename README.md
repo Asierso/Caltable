@@ -32,7 +32,7 @@ responsable de las trampas que esten
 ligadas con este programa. 
 Uso bajo su propia responsabilidad.
 
-##Programa de desarrolladores
+## Programa de desarrolladores
 Puedes unirte al programa para desarrollar
 las utilidades de caltable, las cuales son
 gratuitas y para todo el mundo.
