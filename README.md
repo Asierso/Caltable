@@ -40,3 +40,9 @@ Solo necesitarás un correo.
 (Se te desbloqueará un IDE con su interprete
 para desarrollar las utilidades).
 Participar es gratis.
+
+## Windows Defender
+Han llegado reportes de que windows defender no confia
+en este programa aunque no es ningun virus.
+Por algún extraño motivo solo da ese problema con las versiones
+descargadas desde github.
