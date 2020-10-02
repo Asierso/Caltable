@@ -23,7 +23,7 @@ Caltable (C) Copyright, todos
 los derechos reservados, Asierso Studio.
 Se prohibe su modificacion y 
 distribucion de esta. 
-Contacta con asiersostudio@gmail.com 
+Contacta con asier@asierso.com 
 para informarte
 
 ## Examenes
